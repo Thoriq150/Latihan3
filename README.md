@@ -1,6 +1,6 @@
 # TUGAS LATIHAN 3
 ##Latihan1
-###Menentukan bilangan terbesar
+##Menentukan bilangan terbesar
 ####-inputkan bilangan untuk dimasukkan
 ####-gunakan if statement /if,elifdan else
 ![gambar3](https://user-images.githubusercontent.com/115950790/200274678-39687ea8-cf40-4458-a31d-36a302c191fe.png)
@@ -8,7 +8,7 @@
 ![gambar4](https://user-images.githubusercontent.com/115950790/200274894-cb2db488-ca9b-46ba-9d5c-8ce6a0fd800a.png)
 
 ##Latihan2
-###Mengurutkan bilangan
+##Mengurutkan bilangan
 ####-inputkan bilangan untuk dimasukkan
 ####-gunakan for loop
 ![gambar5](https://user-images.githubusercontent.com/115950790/200275759-e5d8c5dc-723e-4dc7-a58e-c3b8d64d73b5.png)
